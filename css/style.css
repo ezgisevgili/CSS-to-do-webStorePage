@@ -1,0 +1,32 @@
+
+nav{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.anaSayfaBlok1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.anaSayfaBlok2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.anaSayfaBlok3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+td{
+    text-align: center;
+}
+
+body {
+    background-color:papayawhip;
+  }
+
+  
